@@ -3,6 +3,11 @@ World Happiness Report analysis and interactive dashboard built using Power BI.
 
 An interactive Power BI dashboard analyzing happiness scores and related indicators across countries.
 
+## Dashboard Preview
+
+![World Happiness Power BI Dashboard](dashboard_image.jpg)
+
+
 ## Dashboard Visuals
 
 * Country with highest GDP per capita
